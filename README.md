@@ -1,3 +1,5 @@
+[SSAM: A Haskell Parallel Programming STM
+Based Simple Actor Model](https://iopscience.iop.org/article/10.1088/1742-6596/1566/1/012040/pdf)
 # stm-actor
 
 [![Hackage](https://img.shields.io/hackage/v/stm-actor.svg)](https://hackage.haskell.org/package/stm-actor)
